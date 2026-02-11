@@ -1,0 +1,16 @@
+{
+  "name": "lienalert-airtable-builder",
+  "version": "1.0.0",
+  "description": "Build Airtable schema for LienAlert SaaS",
+  "main": "build_schema.js",
+  "type": "commonjs",
+  "scripts": {
+    "build-schema": "node build_schema.js"
+  },
+  "keywords": [
+    "airtable",
+    "schema",
+    "automation"
+  ],
+  "license": "MIT"
+}
